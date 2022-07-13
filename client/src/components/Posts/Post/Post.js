@@ -3,8 +3,7 @@ import useStyles from "./styles"
 
 const Post = () => {
     const classes = useStyles();
-     return(
-
+    return(
         <h1>Singular Post</h1>
     )
 }
